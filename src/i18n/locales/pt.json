@@ -1,0 +1,38 @@
+{
+    "header": {
+        "home": "Início",
+        "catalog": "Catálogo",
+        "notes": "Notas",
+        "about": "Sobre"
+    },
+    "hero": {
+        "title": "CORVO<br><span class=\"highlight\">INDIE</span>",
+        "description": "<b>Desenvolvo jogos focados em <span class=\"highlight\">histórias ramificadas</span></b>, onde não existe caminho certo ou errado — apenas consequências. Cada decisão que você toma altera o rumo da trama e desbloqueia finais únicos."
+    },
+    "features": {
+        "accessible_title": "Leve e acessível",
+        "accessible_desc": "Rode em qualquer celular ou PC. Jogue <span class=\"highlight\">GRÁTIS</span> o prólogo direto no navegador, sem instalar nada."
+    },
+    "catalog": {
+        "title": "Catálogo Disponível",
+        "tag_new": "NOVO",
+        "game_subtitle": "Uma súcubo fugitiva que deseja viver como um ser humano, com valores monogâmicos.",
+        "btn_play": "Jogar Prólogo",
+        "btn_download": "Baixar no Celular ou PC",
+        "warning_wifi": "Recomendado usar Wi-Fi em vez de 4G/5G",
+        "updated_at": "Atualizado em: 30/01/2026"
+    },
+    "notes": {
+        "title": "Notas Importantes",
+        "solo_title": "Desenvolvimento Solo",
+        "solo_desc": "A <strong>Corvo Indie</strong> é um projeto solo, conduzido por uma única pessoa. Meu compromisso é criar histórias de qualidade, mas os prazos de desenvolvimento podem variar, pois os jogos ainda não geram renda suficiente para que eu possa me dedicar a eles em tempo integral.",
+        "updates_title": "Frequência de Updates",
+        "updates_desc": "Os jogos recebem atualizações semanais ou mensais, conforme a disponibilidade de tempo. Fique atento ao catálogo (e redes sociais) para novas demonstrações e capítulos!",
+        "social_title": "Siga nas Redes",
+        "social_desc": "Acompanhe o desenvolvimento e sugira ideias no <strong>Instagram, TikTok, YouTube e X</strong>. Sua opinião ajuda a moldar o futuro dos nossos jogos!"
+    },
+    "footer": {
+        "rights": "© 2026 Corvo Indie. Todos os direitos reservados.",
+        "subtitle": "Jogos Narrativos Imersivos e Ramificados"
+    }
+}

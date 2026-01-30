@@ -1,0 +1,57 @@
+:root {
+    /* Cores */
+    --color-primary: #a855f7; /* Roxo vibrante da imagem */
+    --color-bg-dark: #0a0a0a;
+    --color-card-dark: #121212;
+    --color-text-main: #ffffff;
+    --color-text-muted: #a1a1aa;
+    --color-accent: #d8b4fe;
+
+    /* Tipografia */
+    --font-main: 'Outfit', sans-serif;
+    
+    /* Espaçamento */
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 4rem;
+
+    /* Bordas */
+    --radius-lg: 1.5rem;
+    --radius-md: 0.75rem;
+
+    /* Gradientes */
+    --grad-hero: linear-gradient(180deg, #0a0a0a 0%, #121212 100%);
+    --grad-purple: linear-gradient(135deg, #a855f7 0%, #7c3aed 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-main);
+    background-color: var(--color-bg-dark);
+    color: var(--color-text-main);
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-family: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

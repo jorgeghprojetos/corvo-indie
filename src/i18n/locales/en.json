@@ -1,0 +1,38 @@
+{
+    "header": {
+        "home": "Home",
+        "catalog": "Catalog",
+        "notes": "Notes",
+        "about": "About"
+    },
+    "hero": {
+        "title": "CORVO<br><span class=\"highlight\">INDIE</span>",
+        "description": "<b>I develop games focused on <span class=\"highlight\">branching stories</span></b>, where there is no right or wrong path — only consequences. Every decision you make changes the plot and unlocks unique endings."
+    },
+    "features": {
+        "accessible_title": "Lightweight and Accessible",
+        "accessible_desc": "Run on any phone or PC. Play the prologue <span class=\"highlight\">FOR FREE</span> directly in your browser, without installing anything."
+    },
+    "catalog": {
+        "title": "Available Catalog",
+        "tag_new": "NEW",
+        "game_subtitle": "A runaway succubus who wants to live as a human being, with monogamous values.",
+        "btn_play": "Play Prologue",
+        "btn_download": "Download for Mobile or PC",
+        "warning_wifi": "Wi-Fi recommended instead of 4G/5G",
+        "updated_at": "Updated on: 01/30/2026"
+    },
+    "notes": {
+        "title": "Important Notes",
+        "solo_title": "Solo Development",
+        "solo_desc": "<strong>Corvo Indie</strong> is a solo project, led by a single person. My commitment is to create quality stories, but development timelines may vary as the games do not yet generate enough income for me to dedicate myself to them full-time.",
+        "updates_title": "Update Frequency",
+        "updates_desc": "Games receive weekly or monthly updates, depending on time availability. Keep an eye on the catalog (and social media) for new demos and chapters!",
+        "social_title": "Follow us",
+        "social_desc": "Follow development and suggest ideas on <strong>Instagram, TikTok, YouTube and X</strong>. Your opinion helps shape the future of our games!"
+    },
+    "footer": {
+        "rights": "© 2026 Corvo Indie. All rights reserved.",
+        "subtitle": "Immersive and Branching Narrative Games"
+    }
+}

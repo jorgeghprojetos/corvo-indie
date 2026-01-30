@@ -1,0 +1,12 @@
+/* Estilos globais adicionais */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--spacing-md);
+}
+
+@media (min-width: 768px) {
+    main {
+        padding: 0 var(--spacing-lg);
+    }
+}
